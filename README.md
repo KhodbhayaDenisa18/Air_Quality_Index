@@ -9,7 +9,7 @@ In **Week 1**, the focus was on setting up the project and preparing **static ci
 
 ## ✅ Work Done in Week 1
 1. Created the project structure:
-air-quality-app/
+AQI-WebApp/
 
 ├── index.html # Main webpage
 
