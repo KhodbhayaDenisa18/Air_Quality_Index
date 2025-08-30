@@ -11,8 +11,11 @@ In **Week 1**, the focus was on setting up the project and preparing **static ci
 1. Created the project structure:
 air-quality-app/
 ├── index.html # Main webpage
+
 ├── style.css # Stylesheet
+
 ├── script.js # JavaScript logic
+
 └── cities.json # 30–40 city details
 
 
