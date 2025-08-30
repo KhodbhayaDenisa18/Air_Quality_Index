@@ -1,4 +1,6 @@
 🌍 **Air Quality Monitoring Project**
+
+
 📌 **Week 1 Progress (30%)**
 
 This is an internship project to build a **web application** that shows **Air Quality Index (AQI)** for different cities.
