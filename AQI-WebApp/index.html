@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Air Quality Index (AQI) App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🌍 Air Quality Index (AQI) Checker</h1>
+    
+    <form id="cityForm">
+      <input type="text" id="cityInput" placeholder="Enter city name..." required>
+      <button type="submit">Check AQI</button>
+    </form>
+    
+    <div id="result" class="card hidden">
+      <h2 id="cityName"></h2>
+      <p id="aqiValue"></p>
+      <div id="pollutants"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
