@@ -36,12 +36,16 @@ NO₂: 30 µg/m³
 5.Verified that city details are properly displayed in the browser.
 
 🖥️ How to Run (Week 1)
-Download or clone the project folder.
-Open index.html in a browser.
-The app will display AQI details loaded from cities.json.
+1.Download or clone the project folder.
+
+2.Open index.html in a browser.
+
+3.The app will display AQI details loaded from cities.json.
 
 📅 Next Steps (Week 2 Plan)
 
 Integrate OpenAQ API for real-time AQI data.
+
 Show AQI levels with colored indicators (Good, Moderate, Poor, Hazardous).
+
 Add a search/filter option for cities.
