@@ -10,6 +10,7 @@ In Week 1, the focus was on setting up the project and preparing static city dat
 1 .Created the project structure:
 
 AQI-WebApp/
+
 ├── index.html   # Main webpage  
 ├── style.css    # Stylesheet  
 ├── script.js    # JavaScript logic  
